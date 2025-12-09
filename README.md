@@ -2,6 +2,8 @@
 
 A modern Next.js travel planning application with AI-powered flight and hotel recommendations using Google's Gemini AI.
 
+<img width="2400" height="1519" alt="image" src="https://github.com/user-attachments/assets/b80dbf1b-7930-4fed-a907-51672636c3e1" />
+
 ## Features
 
 -  **AI-Powered Recommendations** - Uses Google Gemini to generate realistic flight and hotel options
